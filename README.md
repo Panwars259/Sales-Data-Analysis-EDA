@@ -144,7 +144,7 @@ By applying these insights, the business can enhance **profitability, operationa
 
 ---
 
-## 📁 1️⃣0️⃣ Repository Structure
+## 📁 🔟 Repository Structure
 📦 EDA-on-Sales-Dataset
 │
 ├── 📂 data/
